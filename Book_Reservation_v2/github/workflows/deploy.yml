@@ -60,4 +60,4 @@ jobs:
       - name: Deployment Link
         run: |
           echo "Your application has been deployed!"
-          echo "Visit: https://ermi1223.github.io/Book_Reservation/"
+          echo "Visit: https://ermi1223.github.io/Book_Reservation_v2/"
